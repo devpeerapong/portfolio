@@ -182,6 +182,14 @@ img {
   color: #f70;
 }
 
+.intern {
+  background: #333b4a;
+}
+
+.intern .link {
+  color: #333b4a;
+}
+
 .idc {
   background: rgb(18, 21, 28);
 }
